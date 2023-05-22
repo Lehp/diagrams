@@ -1,20 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2023-05-17T12:06:58.293Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/113.0" etag="rMwzkAinHJ3-Ru3UZZUb" version="21.3.2" type="github">
-  <diagram name="Page-1" id="a7904f86-f2b4-8e86-fa97-74104820619b">
+<mxfile host="app.diagrams.net" modified="2023-05-22T13:52:04.043Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/113.0" etag="HJY3XRoYRcDbtRpRiPV7" version="21.3.2" type="github" pages="2">
+  <diagram name="Cycle-Struktur" id="a7904f86-f2b4-8e86-fa97-74104820619b">
     <mxGraphModel dx="1026" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="24794b860abc3c2d-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;T-Shirt Rot: CyProduct&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;div&gt;EAN: 142331234&lt;/div&gt;&lt;div&gt;Marke: Trek&lt;/div&gt;&lt;div&gt;Grösse: L&lt;/div&gt;&lt;div&gt;Farbe: Rot&lt;/div&gt;&lt;div&gt;&lt;hr&gt;&lt;font color=&quot;#7ea6e0&quot;&gt;ArtikelNR: 525292 (Zusatz, ArticleID)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;Hersteller-NR : 100001&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#00ff00&quot;&gt;VariantGroupID 1&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ebebeb&quot;&gt;LocationID: 10&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" parent="1" vertex="1">
+        <mxCell id="24794b860abc3c2d-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;T-Shirt Rot: CyProduct&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;div&gt;EAN: 142331234&lt;/div&gt;&lt;div&gt;Marke: Trek&lt;/div&gt;&lt;div&gt;Grösse: L&lt;/div&gt;&lt;div&gt;Farbe: Rot&lt;/div&gt;&lt;div&gt;&lt;hr&gt;&lt;font color=&quot;#7ea6e0&quot;&gt;Modell: 525292 (Zusatz, ArticleID)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;Hersteller-NR : 100001&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#00ff00&quot;&gt;VariantGroupID 1&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ebebeb&quot;&gt;LocationID: 10&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" parent="1" vertex="1">
           <mxGeometry x="50" y="80" width="220" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="NGnspXkqZ9vbO3NdTMca-4" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;T-Shirt Rot: CyProduct&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;div&gt;EAN: 142331235&lt;/div&gt;&lt;div&gt;Marke: Trek&lt;/div&gt;&lt;div&gt;Grösse: M&lt;br&gt;&lt;/div&gt;&lt;div&gt;Farbe: Rot&lt;/div&gt;&lt;div&gt;&lt;hr&gt;&lt;font color=&quot;#7ea6e0&quot;&gt;ArtikelNR: 525292 (Zusatz, ArticleID)&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Hersteller-NR : 100002 (SizeID)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#00ff00&quot;&gt;VariantGroupID 1&lt;/font&gt;&lt;/div&gt;&lt;div&gt;LocationID: 14&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" vertex="1" parent="1">
+        <mxCell id="NGnspXkqZ9vbO3NdTMca-4" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;T-Shirt Rot: CyProduct&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;div&gt;EAN: 142331235&lt;/div&gt;&lt;div&gt;Marke: Trek&lt;/div&gt;&lt;div&gt;Grösse: M&lt;br&gt;&lt;/div&gt;&lt;div&gt;Farbe: Rot&lt;/div&gt;&lt;div&gt;&lt;hr&gt;&lt;font color=&quot;#7ea6e0&quot;&gt;Modell: 525292 (Zusatz, ArticleID)&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Hersteller-NR : 100002 (SizeID)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#00ff00&quot;&gt;VariantGroupID 1&lt;/font&gt;&lt;/div&gt;&lt;div&gt;LocationID: 14&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" parent="1" vertex="1">
           <mxGeometry x="360" y="80" width="220" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="NGnspXkqZ9vbO3NdTMca-5" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;T-Shirt Grün: CyProduct&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;div&gt;EAN: 142331247&lt;/div&gt;&lt;div&gt;Marke: Trek&lt;/div&gt;&lt;div&gt;Grösse: M&lt;br&gt;&lt;/div&gt;&lt;div&gt;Farbe: Grün&lt;/div&gt;&lt;div&gt;&lt;hr&gt;ArtikelNR: 525295 (Zusatz, ArticleID)&lt;br&gt;&lt;/div&gt;&lt;div&gt;Hersteller-NR : 100006&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#00ff00&quot;&gt;VariantGroupID 1&lt;/font&gt;&lt;/div&gt;&lt;div&gt;LocationID: 10&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" vertex="1" parent="1">
+        <mxCell id="NGnspXkqZ9vbO3NdTMca-5" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;T-Shirt Grün: CyProduct&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;div&gt;EAN: 142331247&lt;/div&gt;&lt;div&gt;Marke: Trek&lt;/div&gt;&lt;div&gt;Grösse: M&lt;br&gt;&lt;/div&gt;&lt;div&gt;Farbe: Grün&lt;/div&gt;&lt;div&gt;&lt;hr&gt;ArtikelNR: 525295 (Zusatz, ArticleID)&lt;br&gt;&lt;/div&gt;&lt;div&gt;Hersteller-NR : 100006&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#00ff00&quot;&gt;VariantGroupID 1&lt;/font&gt;&lt;/div&gt;&lt;div&gt;LocationID: 10&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" parent="1" vertex="1">
           <mxGeometry x="360" y="260" width="220" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="NGnspXkqZ9vbO3NdTMca-7" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;T-Shirt Rot: CyProduct&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;div&gt;EAN: 142331234&lt;/div&gt;&lt;div&gt;Marke: Trek&lt;/div&gt;&lt;div&gt;Grösse: L&lt;/div&gt;&lt;div&gt;Farbe: Rot&lt;/div&gt;&lt;div&gt;&lt;hr&gt;&lt;font color=&quot;#7ea6e0&quot;&gt;ArtikelNR: 525292 (Zusatz, ArticleID)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;Hersteller-NR : 100001&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#00ff00&quot;&gt;VariantGroupID 1&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ebebeb&quot;&gt;LocationID: 14&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" vertex="1" parent="1">
+        <mxCell id="NGnspXkqZ9vbO3NdTMca-7" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;T-Shirt Rot: CyProduct&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;div&gt;EAN: 142331234&lt;/div&gt;&lt;div&gt;Marke: Trek&lt;/div&gt;&lt;div&gt;Grösse: L&lt;/div&gt;&lt;div&gt;Farbe: Rot&lt;/div&gt;&lt;div&gt;&lt;hr&gt;&lt;font color=&quot;#7ea6e0&quot;&gt;ArtikelNR: 525292 (Zusatz, ArticleID)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;Hersteller-NR : 100001&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#00ff00&quot;&gt;VariantGroupID 1&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ebebeb&quot;&gt;LocationID: 14&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" parent="1" vertex="1">
           <mxGeometry x="50" y="260" width="220" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ZtMWve2evkhdrblMB_0a" name="Zubi-Struktur">
+    <mxGraphModel dx="1026" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LOXg7E01RXSWGvjg1_2w-1" value="Article" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="50" width="250" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="LOXg7E01RXSWGvjg1_2w-2" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="LOXg7E01RXSWGvjg1_2w-1">
+          <mxGeometry y="26" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="LOXg7E01RXSWGvjg1_2w-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="LOXg7E01RXSWGvjg1_2w-1">
+          <mxGeometry y="52" width="250" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="LOXg7E01RXSWGvjg1_2w-4" value="&lt;div&gt;ExternalArticleID (CyModell + Color)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="LOXg7E01RXSWGvjg1_2w-1">
+          <mxGeometry y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="LOXg7E01RXSWGvjg1_2w-19" value="VariantGroupID(CyModell)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="LOXg7E01RXSWGvjg1_2w-1">
+          <mxGeometry y="86" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="LOXg7E01RXSWGvjg1_2w-6" value="Size" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="310" width="250" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="LOXg7E01RXSWGvjg1_2w-7" value="ID: uint" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="LOXg7E01RXSWGvjg1_2w-6">
+          <mxGeometry y="26" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="LOXg7E01RXSWGvjg1_2w-8" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="LOXg7E01RXSWGvjg1_2w-6">
+          <mxGeometry y="52" width="250" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="LOXg7E01RXSWGvjg1_2w-9" value="ArticleID(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="LOXg7E01RXSWGvjg1_2w-6">
+          <mxGeometry y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="LOXg7E01RXSWGvjg1_2w-10" value="ExternalSizeID: HerstellerNR" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="LOXg7E01RXSWGvjg1_2w-6">
+          <mxGeometry y="86" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="LOXg7E01RXSWGvjg1_2w-11" value="Variant_Mapping (Cylce Servcie)" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="10" width="240" height="142" as="geometry" />
+        </mxCell>
+        <mxCell id="LOXg7E01RXSWGvjg1_2w-12" value="&lt;div&gt;CyUniqueID&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="LOXg7E01RXSWGvjg1_2w-11">
+          <mxGeometry y="30" width="240" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="LOXg7E01RXSWGvjg1_2w-16" value="Color" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="LOXg7E01RXSWGvjg1_2w-11">
+          <mxGeometry y="56" width="240" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="LOXg7E01RXSWGvjg1_2w-13" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="LOXg7E01RXSWGvjg1_2w-11">
+          <mxGeometry y="82" width="240" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="LOXg7E01RXSWGvjg1_2w-14" value="Modell" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="LOXg7E01RXSWGvjg1_2w-11">
+          <mxGeometry y="90" width="240" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="LOXg7E01RXSWGvjg1_2w-15" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="LOXg7E01RXSWGvjg1_2w-11">
+          <mxGeometry y="116" width="240" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
