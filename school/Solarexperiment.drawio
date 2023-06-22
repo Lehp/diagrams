@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-22T15:55:08.562Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/114.0" etag="8fC_AoMeOWfPdCQtSstQ" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-22T16:22:44.515Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/114.0" etag="F4tTfcwJeBs69dOO7ZI4" version="21.3.2" type="github">
   <diagram name="Page-1" id="7e0a89b8-554c-2b80-1dc8-d5c74ca68de4">
     <mxGraphModel dx="933" dy="1474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -59,9 +59,6 @@
         </mxCell>
         <mxCell id="GdU1qMy6sk86b93hcqxC-23" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.electrical.resistors.resistor_2;rounded=1;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="-300" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="GdU1qMy6sk86b93hcqxC-24" value="6.25V / 12 = 0.52V" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="295" y="-330" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GdU1qMy6sk86b93hcqxC-26" value="&lt;div&gt;6.7V / 12 = 0.55V&lt;/div&gt;&lt;div&gt;~3.5A&lt;/div&gt;&lt;div&gt;R ~1.914Ω&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="-70" width="120" height="40" as="geometry" />
